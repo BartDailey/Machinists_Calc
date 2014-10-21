@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author BDailey
+ *
+ */
+package trigCalc;
